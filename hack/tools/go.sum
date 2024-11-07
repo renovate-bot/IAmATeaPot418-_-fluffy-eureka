@@ -98,6 +98,8 @@ github.com/antihax/optional v0.0.0-20180407024304-ca021399b1a6/go.mod h1:V8iCPQY
 github.com/antihax/optional v1.0.0/go.mod h1:uupD/76wgC+ih3iEmQUL+0Ugr19nfwCT1kdvxnR2qWY=
 github.com/aojea/sloppy-netparser v0.0.0-20210819225411-1b3bd8b3b975 h1:3bpBhtHNVCpJiyO1r7w0BjGhQPPk2eD1ZsVAVS5vmiE=
 github.com/aojea/sloppy-netparser v0.0.0-20210819225411-1b3bd8b3b975/go.mod h1:VP81Qd6FKAazakPswOou8ULXGU/j5QH0VcGPzehHx3s=
+github.com/aojea/sloppy-netparser v0.0.0-20210819230639-a7bbdb117ea5 h1:RTX0fCKlAKB5QNgbwE+ccwHzCer7te0WadlFn9mTyDI=
+github.com/aojea/sloppy-netparser v0.0.0-20210819230639-a7bbdb117ea5/go.mod h1:mvGhtsRJ93QhZrMOx+PJt/6+HDM7l2rrz/Mn5bkdL5c=
 github.com/aokoli/goutils v1.0.1/go.mod h1:SijmP0QR8LtwsmDs8Yii5Z/S4trXFGFC2oO5g9DP+DQ=
 github.com/armon/circbuf v0.0.0-20150827004946-bbbad097214e/go.mod h1:3U/XgcO3hCbHZ8TKRvWD2dDTCfh9M9ya+I9JpbB7O8o=
 github.com/armon/consul-api v0.0.0-20180202201655-eb2c6b5be1b6/go.mod h1:grANhF5doyWs3UAsr3K4I6qtAmlQcZDesFNEHPZAzj8=
