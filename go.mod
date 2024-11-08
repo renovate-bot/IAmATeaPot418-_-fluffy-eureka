@@ -395,7 +395,7 @@ replace (
 	github.com/google/go-cmp => github.com/google/go-cmp v0.5.6
 	github.com/google/gofuzz => github.com/google/gofuzz v1.1.0
 	github.com/google/martian/v3 => github.com/google/martian/v3 v3.2.1
-	github.com/google/pprof => github.com/google/pprof v0.0.0-20210407192527-94a9f03dee38
+	github.com/google/pprof => github.com/google/pprof b92577c0c142
 	github.com/google/renameio => github.com/google/renameio v0.1.0
 	github.com/google/shlex => github.com/google/shlex v0.0.0-20191202100458-e7afc7fbc510
 	github.com/google/uuid => github.com/google/uuid v1.1.2
