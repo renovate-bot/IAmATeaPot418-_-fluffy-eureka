@@ -8,7 +8,7 @@ require (
 	github.com/client9/misspell v0.3.4
 	github.com/golang/mock v1.6.0
 	github.com/golangci/golangci-lint v1.46.2
-	github.com/google/go-flow-levee v0.1.5
+	github.com/google/go-flow-levee v0.1.6
 	gotest.tools/gotestsum v1.6.4
 	honnef.co/go/tools v0.3.1
 	sigs.k8s.io/logtools v0.1.0
