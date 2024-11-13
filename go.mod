@@ -511,7 +511,7 @@ replace (
 	go.etcd.io/etcd/client/v3 => go.etcd.io/etcd/client/v3 v3.5.4
 	go.etcd.io/etcd/pkg/v3 => go.etcd.io/etcd/pkg/v3 v3.5.4
 	go.etcd.io/etcd/raft/v3 => go.etcd.io/etcd/raft/v3 v3.5.4
-	go.etcd.io/etcd/server/v3 => go.etcd.io/etcd/server/v3 v3.5.4
+	go.etcd.io/etcd/server/v3 => go.etcd.io/etcd/server/v3 v3.5.17
 	go.opencensus.io => go.opencensus.io v0.23.0
 	go.opentelemetry.io/contrib => go.opentelemetry.io/contrib v0.20.0
 	go.opentelemetry.io/contrib/instrumentation/google.golang.org/grpc/otelgrpc => go.opentelemetry.io/contrib/instrumentation/google.golang.org/grpc/otelgrpc v0.20.0
